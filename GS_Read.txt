@@ -43,7 +43,14 @@ All's good.  Master created at orgin and the READ.md file was completed with a c
 tools is making the git easier.  Using the "source control" messages being shown on the activity bar, using the visual cues from
 gitLens, and using the cmd prompt.
 
-6) Will save this file, commit file, and push this file to master.
+6) GitLens shows this file with a 'M', the description says 1 file changed, Modified in Working Tree.  Will save this file, then 
+    click to stage changes, then commit and push to master.  GitLens does not have the same feature for commit as for staging.
+
+    Note: made a mistake with the last push - probably mispelled 'orgin' S/B 'origin'.  Will try again after this new note.
+
+    
+
+
 
 
 
