@@ -1,0 +1,42 @@
+Testing various git push / pull activities with multiple changes to this file.   The changes to this 
+file will represent changes that could have occurred to any of the files in this local repo.   Will 
+try using vsCode / git / git Lens.
+
+
+
+1)  Create new repo at github.  Do not create the READ.txt file, yet.
+
+2)  Started terminal at this page.  Type: 'cmd' to start the cmd line.  Type: 'git init'.   Worked.
+
+3)  Saved file to learn if this new save causes the git init to alter.
+
+    Note: just type:  Cont + ~  to switch from this file editing to the terminal prompt.
+
+4)  After the 'git init' has been done, can use GitLens to stage and commit...
+
+5)   The plan is to stage the other 3 files in this local repo first, and then save this file and then
+    stage this file.   Will then commit the other 3 files and then try to ( include .... ?) this file with 
+    the other files.  
+
+    Note:  Since I'm not going to stage all the files in this repo at the same time (add *), it will be easier
+            to use gibLens to stage and commit.  Selecting individual files using gitLens and staging the 
+            files changes the 'U' to 'A'....
+
+            The Mongo folder is more difficult to stage.  Selected the '+' to stage, but needed to open down to view files 
+            to verify they are being tracked ... all show 'A'.
+
+            Can stage and then unstage files w/out an issue. 
+
+            219 files were staged and then commit.  Probably was unnecessary for all the node module files, but doing this
+            ensures no future dependency issues.
+
+            Next up, staging this file to the repo, then pushing this local git repo to 'orgin'
+            
+
+            …or push an existing repository from the command line
+
+            git remote add origin https://github.com/GraySmith80/Practice_git.git
+            git push -u origin master
+
+
+    
