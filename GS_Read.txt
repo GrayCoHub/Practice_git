@@ -31,12 +31,20 @@ try using vsCode / git / git Lens.
             ensures no future dependency issues.
 
             Next up, staging this file to the repo, then pushing this local git repo to 'orgin'
-            
+
 
             …or push an existing repository from the command line
 
             git remote add origin https://github.com/GraySmith80/Practice_git.git
             git push -u origin master
+
+
+All's good.  Master created at orgin and the READ.md file was completed with a commit.   It would appear that using a combo of 
+tools is making the git easier.  Using the "source control" messages being shown on the activity bar, using the visual cues from
+gitLens, and using the cmd prompt.
+
+6) Will save this file, commit file, and push this file to master.
+
 
 
     
